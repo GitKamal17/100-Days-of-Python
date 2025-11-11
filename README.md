@@ -8,6 +8,6 @@ I am using this to track my daily progress, build my portfolio, and develop my p
 
 | Day | Project Title |
 | :---: | :--- |
-| [Day 07](https://github.com/GitKamal17/100-Days-of-Python/tree/main/Day%207%20-%20Hangman) | Hangman |
+| [Day 07](https://github.com/GitKamal17/100-Days-of-Python/tree/main/Day%207%20-%20%20Hangman) | Hangman |
 | Day 08 | (In Progress) |
 | ... | |
